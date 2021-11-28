@@ -1,0 +1,1 @@
+Istifadeden once `pip install -r requirements.txt` ve `pip install translators` emrlerini calisdirin.
